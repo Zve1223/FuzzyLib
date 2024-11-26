@@ -1,0 +1,3 @@
+C:/Users/robio/OneDrive/Рабочий стол/HWs/Fuzzy-Relations/build/CMakeFiles/Fuzzy.dir
+C:/Users/robio/OneDrive/Рабочий стол/HWs/Fuzzy-Relations/build/CMakeFiles/edit_cache.dir
+C:/Users/robio/OneDrive/Рабочий стол/HWs/Fuzzy-Relations/build/CMakeFiles/rebuild_cache.dir
